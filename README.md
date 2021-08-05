@@ -26,3 +26,13 @@ element = document.querySelector(selectors);
 - document.querySelectorAll(selecteurCSS)
 - Syntax : 
 elementList = parentNode.querySelectorAll(selectors);
+
+3. Quels sont les événements en JQuery ? Les événements de Windows ?
+- Définition : 
+jQuery est la bibliothèque JavaScript la plus utilisée et vous permet de créer des effets dynamiques sur vos pages web comme des changements de couleur, des animations, et des effets de fondu.
+Ces méthodes vont porter le nom de l’événement auquel elles réagissent comme 
+- click(), 
+- mouseenter(), 
+- keyup(), 
+- change(), etc. et sont en fait des notations raccourcies de la méthode jQuery on() qui va nous permettre de gérer plusieurs événements au sein d’une même fonction gestionnaire d’événements.
+
