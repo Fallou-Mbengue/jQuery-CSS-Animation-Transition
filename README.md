@@ -64,5 +64,6 @@ L’objet NodeList auquel forEach() est appliqué.
 Par ailleurs, notez que les deux interfaces Document et Element implémentent leurs méthodes querySelector() ou querySelectorAll() qui vont donc produire des résultats différents selon qu’on les utilise avec des objets de Document ou de Element.
 
 Lorsqu’on utilise querySelector() ou querySelectorAll() avec un objet Document, la recherche se fait dans tout le document. Lorsqu’on utilise l’une de ces méthodes à partir d’un objet Element, la recherche se fait parmi les descendants de l’élément sur lequel on appelle la méthode en question.
+projet
   
 
